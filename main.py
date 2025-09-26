@@ -1,4 +1,5 @@
 def twoSum(nums, target):
+    # push github
     if not nums:
         return None
     if not all(isinstance(num, int) for num in nums):
